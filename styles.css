@@ -1,0 +1,32 @@
+
+#title{
+    font-family: 'Cinzel', serif;
+    /* font-size: 4rem; */
+}
+/* img{
+    height: 200px;
+    width: 400px;
+} */
+.image{
+    height: 300px;
+    overflow: hidden;
+}
+img{
+    height: 100%;
+    object-fit: cover;
+}
+.card{
+    margin: 20px 0px;
+}
+a:visited{
+    color: rgb(18, 9, 102);
+}
+.nav-item{
+    padding: 0px 10px;
+}
+#content{
+    display: none;
+}
+.loading{
+    margin-top: 200px;
+}
